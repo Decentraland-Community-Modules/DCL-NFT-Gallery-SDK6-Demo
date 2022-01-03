@@ -1,0 +1,47 @@
+{
+  "display": {
+    "title": "DCL NFT Gallery Scene",
+    "description": "Displays NFTs in a gallery",
+    "navmapThumbnail": "images/scene-thumbnail.png",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Alex Pazder",
+    "email": "TheCryptoTrader69@gmail.com"
+  },
+  "owner": "",
+  "scene": {
+    "parcels": [
+      "0,0",
+      "1,0",
+      "2,0",
+      "0,1",
+      "1,1",
+      "2,1",
+      "0,2",
+      "1,2",
+      "2,2"
+    ],
+    "base": "0,0"
+  },
+  "requiredPermissions": [],
+  "main": "bin/game.js",
+  "tags": [],
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 24,
+        "y": 0,
+        "z": 1
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 1,
+        "z": 8
+      }
+    }
+  ],
+  "featureToggles": {}
+}
