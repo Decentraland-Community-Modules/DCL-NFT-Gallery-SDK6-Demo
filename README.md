@@ -3,11 +3,13 @@
 This module provides users simple interfaces for displaying NFTs. It includes functionality 
 for 2D frames, 3D objects, and node-based displayers that can bundle both types.
   
+![cm_gallery0](https://user-images.githubusercontent.com/91359820/205761372-ae77a522-ff0e-498d-acfe-ec1bc673aa7b.png)
+
 This module has been heavily documented and will work as-is/out of the box. You can try it out here:
 
-	https://decentraland-gallery-showcase.vercel.app/
+	--live-scene link has been depreciated, new hosting service is being researched--
 
-or by downloading the scene and running it locally (ensure you have the DCL SDK installed). 
+Or you can download the scene and run it locally (ensure you have the DCL SDK installed). 
 
 File Overview:
 
